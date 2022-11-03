@@ -9,4 +9,6 @@ document.querySelector("button").onclick = function(){
             document.getElementById("imagen").setAttribute("src","imagenn/gato1.jpg");
         }
     }
+
+    // Agrego un comentario en este archivo
 }
